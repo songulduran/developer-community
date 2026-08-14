@@ -1,0 +1,116 @@
+/* BODY ALANI */
+
+body {
+  background-color: rgb(211, 211, 223);
+  color: rgb(164, 99, 134);
+}
+
+/* CONTAINER */
+
+.container {
+  width: 700px;
+
+  margin: 40px auto;
+  padding: 20px;
+
+  background-color: rgb(164, 99, 134);
+  color: rgb(211, 211, 223);
+
+  border: 3px solid rgb(164, 99, 134);
+  border-radius: 20px;
+}
+
+/* HEADER ALANI */
+
+.header {
+  text-align: center;
+
+  background-color: rgb(211, 211, 223);
+  color: tomato;
+
+  width: 600px;
+
+  padding: 20px;
+
+  margin: 20px auto;
+
+  border-radius: 15px;
+}
+
+/* HEADER BAŞLIK */
+
+.header h1 {
+  margin: 0;
+}
+
+/* HEADER PARAGRAF */
+
+.header p {
+  margin-bottom: 0;
+}
+
+/* PROFİL KARTLARI */
+
+.profile-card {
+  width: 550px;
+
+  background-color: rgb(187, 77, 165);
+
+  border: 3px solid rgb(164, 99, 134);
+  border-radius: 20px;
+
+  padding: 25px;
+
+  margin: 30px auto;
+}
+
+/* ÖNE ÇIKAN İLK KART */
+
+#featured {
+  background-color: rgb(164, 99, 134);
+  border: 3px solid rgb(220, 100, 150);
+}
+
+/* PROFİL BAŞLIKLARI */
+
+.profile-card h2 {
+  color: tomato;
+}
+
+/* İSİMLER */
+
+.name {
+  color: tomato;
+}
+
+/* AÇIKLAMA */
+
+.description {
+  background-color: #fff;
+
+  border: 3px solid rgb(164, 99, 134);
+  border-radius: 20px;
+
+  padding: 20px;
+
+  margin-top: 20px;
+
+  color: tomato;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: rgb(211, 211, 223);
+  color: tomato;
+
+  padding: 20px;
+
+  margin: 30px auto 10px;
+
+  width: 600px;
+
+  text-align: center;
+
+  border-radius: 15px;
+}
